@@ -16,3 +16,7 @@ the selected changes to be included in the next version, while git commit
 records those staged changes in the Git repository. In simple terms,
 git add is used to prepare the changes, while git commit saves them
 as part of the project's history.
+## Activity 2
+
+This project demonstrates the use of GitHub remote repositories,
+fetch, pull, and feature branches using Git.
